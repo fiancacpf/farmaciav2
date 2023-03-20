@@ -1,0 +1,11 @@
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\bin\Debug\GestaoFarmaciaV1.exe.config
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\bin\Debug\GestaoFarmaciaV1.exe
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\bin\Debug\GestaoFarmaciaV1.pdb
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.fLogin.resources
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.Properties.Resources.resources
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.csproj.GenerateResource.Cache
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.exe
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.pdb
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.csprojResolveAssemblyReference.cache
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.fProdutos.resources
+c:\users\fiança\documents\visual studio 2012\Projects\GestaoFarmaciaV1\GestaoFarmaciaV1\obj\Debug\GestaoFarmaciaV1.fAdProduto.resources
